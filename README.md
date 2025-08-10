@@ -3,6 +3,11 @@
 A **Convolutional Neural Network (CNN)** image classifier built with **TensorFlow** and **TensorFlow Datasets (TFDS)**.  
 Includes a **Streamlit** web interface where you can upload an image and instantly find out whether it’s a **cat** or a **dog**.
 
+## Live Demo
+
+<img width="1918" height="950" alt="Streamlit Interface Demo" src="https://github.com/user-attachments/assets/f6c8b970-a6e0-4c6a-bde0-e9e6d97dc009" />
+
+*Web interface showing cat classification with 89.61% confidence*
 ---
 
 ## Features
