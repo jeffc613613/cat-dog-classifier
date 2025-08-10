@@ -16,7 +16,7 @@ Includes a **Streamlit** web interface where you can upload an image and instant
 
 ---
 
-## 安裝與環境需求
+## Installation & Requirements
 
 Make sure you have Python 3.8+ installed. Then install the dependencies:
 

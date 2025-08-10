@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -8,31 +7,23 @@ env/
 venv/
 ENV/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# TensorFlow/Keras
 *.h5
 *.hdf5
 logs/
 checkpoints/
 
-# Dataset (如果太大)
 dataset/
 *.jpg
 *.jpeg
 *.png
 *.gif
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS
 .DS_Store
 Thumbs.db
 
-# Streamlit
 .streamlit/
