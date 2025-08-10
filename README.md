@@ -5,7 +5,7 @@ Includes a **Streamlit** web interface where you can upload an image and instant
 
 ---
 
-## 📌 Features
+## Features
 
 - Uses the official **Cats vs Dogs** dataset from **TensorFlow Datasets**
 - CNN architecture for binary image classification
